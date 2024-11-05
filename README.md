@@ -17,9 +17,9 @@
   </p>
 
 <p align="left">
-  <img alt="projeto convert" src=".github/Screenshot_1.png" width="300px" height="400px">
-  <img alt="projeto convert" src=".github/Screenshot_2.png" width="300px" height="400px">
-  <img alt="projeto convert" src=".github/Screenshot_3.png" width="300px" height="400px">
+  <img alt="projeto convert" src=".github/Screenshot_1.png" width="250px" height="350px">
+  <img alt="projeto convert" src=".github/Screenshot_2.png" width="250px" height="350px">
+  <img alt="projeto convert" src=".github/Screenshot_3.png" width="250px" height="350px">
 </p>
 
 ## 🚀 Tecnologias
