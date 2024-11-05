@@ -14,9 +14,12 @@
 
 <p align="center">
   <img alt="projeto convert" src=".github/Screenshot.png" width="100%">
-  <img alt="projeto convert" src=".github/Screenshot_1.png" width="30%">
-      <img alt="projeto convert" src=".github/Screenshot_3.png" width="30%">
-      <img alt="projeto convert" src=".github/Screenshot_4.png" width="30%">
+  </p>
+
+<p align="left">
+  <img alt="projeto convert" src=".github/Screenshot_1.png" width="300px" height="400px">
+  <img alt="projeto convert" src=".github/Screenshot_2.png" width="300px" height="400px">
+  <img alt="projeto convert" src=".github/Screenshot_3.png" width="300px" height="400px">
 </p>
 
 ## 🚀 Tecnologias
