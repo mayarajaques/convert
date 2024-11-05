@@ -16,7 +16,7 @@
   <img alt="projeto convert" src=".github/Screenshot.png" width="100%">
   </p>
 
-<p align="left">
+<p align="center">
   <img alt="projeto convert" src=".github/Screenshot_1.png" width="250px" height="350px">
   <img alt="projeto convert" src=".github/Screenshot_2.png" width="250px" height="350px">
   <img alt="projeto convert" src=".github/Screenshot_3.png" width="250px" height="350px">
